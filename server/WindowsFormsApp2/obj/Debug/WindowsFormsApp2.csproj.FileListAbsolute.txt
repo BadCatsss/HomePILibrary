@@ -1,0 +1,31 @@
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlRenderer.dll
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlRenderer.PdfSharp.dll
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\PdfSharp.Charting.dll
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\PdfSharp.dll
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlRenderer.pdb
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlRenderer.PdfSharp.pdb
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\PdfSharp.xml
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\PdfSharp.Charting.xml
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\PdfSharp.resources.dll
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Моя папка\практика\в процессе\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RSSDialog.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

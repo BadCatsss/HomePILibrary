@@ -1,0 +1,382 @@
+Опыт поступления в магистратуру в Германии (детальный разбор) / Хабр
+https://habr.com/ru/post/482636/
+
+Опыт поступления в магистратуру в Германии (детальный разбор) / Хабр
+https://habr.com/ru/post/482636/
+
+Опыт поступления в магистратуру в Германии (детальный разбор) / Хабр
+https://habr.com/ru/post/482636/
+
+Опыт поступления в магистратуру в Германии (детальный разбор) / Хабр
+https://habr.com/ru/post/482636/
+
+Опыт поступления в магистратуру в Германии (детальный разбор) / Хабр
+https://habr.com/ru/post/482636/
+
+Хранение фотографий на DVD-дисках в 2K19-м (в 2190-м? в 2238-м?) / Хабр
+https://habr.com/ru/post/474476/
+
+Пишем собственный воксельный движок / Хабр
+https://habr.com/ru/post/474414/
+
+7 бесплатных курсов для разработчиков от Microsoft / Блог компании Microsoft / Хабр
+https://habr.com/ru/company/microsoft/blog/473906/
+
+Огромный открытый датасет русской речи версия 1.0 / Хабр
+https://habr.com/ru/post/474462/
+
+Свой Telegram бот для отслеживания uptime своих серверов на python и docker / Хабр
+https://habr.com/ru/post/474434/
+
+article  01 01 2020 21 57 03
+https://habr.com/ru/company/piter/blog/474528/
+
+Протокольно ориентированное программирование, часть 2 / Хабр
+https://habr.com/ru/post/474558/
+
+Защищаем удаленный сервер на Windows как можем / Блог компании Сервер Молл / Хабр
+https://habr.com/ru/company/pc-administrator/blog/474088/
+
+article  01 01 2020 21 57 24
+https://habr.com/ru/company/wolfram/blog/474534/
+
+Решаем уравнение простой линейной регрессии / Хабр
+https://habr.com/ru/post/474602/
+
+Как создать крутых боссов. Опыт разработчиков Shadow Fight 3 / Блог компании Banzai Games / Хабр
+https://habr.com/ru/company/banzai/blog/474540/
+
+О коте Шредингера / Хабр
+https://habr.com/ru/post/474638/
+
+article  01 01 2020 21 57 56
+https://habr.com/ru/company/pult/blog/474646/
+
+Khronos Group создала унифицированный репозиторий с примерами использования Vulkan / Хабр
+https://habr.com/ru/post/474678/
+
+Нижегородская радиолаборатория и радиоприёмники на кристаллических детекторах / Хабр
+https://habr.com/ru/post/474532/
+
+ИИ и 2048. Часть 2: Минимакс + альфа-бета отсечение / Блог компании Edison / Хабр
+https://habr.com/ru/company/edison/blog/474680/
+
+История создания первой Diablo / Хабр
+https://habr.com/ru/post/474466/
+
+Ретропоезд с паровозом / Блог компании Туту.ру / Хабр
+https://habr.com/ru/company/tuturu/blog/474688/
+
+Сверточный слой: методы оптимизации основанные на матричном умножении / Хабр
+https://habr.com/ru/post/448436/
+
+Алгоритм нечеткого поиска TextRadar — основные подходы / Хабр
+https://habr.com/ru/post/474706/
+
+Вышли новые модели шахматных досок Square Off с магнитным управлением и искусственным интеллектом
+https://tproger.ru/news/square-off-neo-swap/
+
+Лучшее из музея компьютерной истории в Mountain View / Хабр
+https://habr.com/ru/post/474740/
+
+Перестаньте заниматься не своей работой / Блог компании RegionSoft Developer Studio / Хабр
+https://habr.com/ru/company/regionsoft/blog/474652/
+
+Современная загрузка скриптов / Блог компании Райффайзенбанк / Хабр
+https://habr.com/ru/company/raiffeisenbank/blog/473994/
+
+Общая теория и археология виртуализации x86 / Хабр
+https://habr.com/ru/post/474776/
+
+История об аркадном стике / Хабр
+https://habr.com/ru/post/474784/
+
+Алгоритм взаимодействия сотен тысяч уникальных частиц на GPU, в GLES3 и WebGL2 / Хабр
+https://habr.com/ru/post/474676/
+
+Performance in .NET Core / Хабр
+https://habr.com/ru/post/474800/
+
+Геометрическое моделирование поверхностей скругления / Хабр
+https://habr.com/ru/post/474738/
+
+article  01 01 2020 22 00 04
+https://habr.com/ru/company/ua-hosting/blog/473428/
+
+Разработка демо для NES — HEOHdemo / Хабр
+https://habr.com/ru/post/474960/
+
+Атака HTTP request smuggling: механизм, разновидности и защита
+https://tproger.ru/translations/http-request-smuggling/
+
+article  01 01 2020 22 00 24
+https://habr.com/ru/company/ua-hosting/blog/474860/
+
+article  01 01 2020 22 00 31
+https://habr.com/ru/company/group-ib/blog/461639/
+
+Строим собственный serverless на основе Fn / Блог компании Southbridge / Хабр
+https://habr.com/ru/company/southbridge/blog/475044/
+
+article  01 01 2020 22 00 45
+https://habr.com/ru/company/postuf/blog/475068/
+
+Хроники книжного голода / Хабр
+https://habr.com/ru/post/475066/
+
+Хождение по мукам или долгая история одной попытки восстановления данных / Хабр
+https://habr.com/ru/post/475146/
+
+article  01 01 2020 22 01 09
+https://habr.com/ru/company/ua-hosting/blog/474708/
+
+Почему топовые физики считают слабые квантовые измерения лженаукой / Хабр
+https://habr.com/ru/post/475140/
+
+Криптографические протоколы: определения, запись, свойства, классификация, атаки / Хабр
+https://habr.com/ru/post/475218/
+
+«Тетрис» в роли принтера / Хабр
+https://habr.com/ru/post/474848/
+
+Необычные системные вызовы на Linux / Хабр
+https://habr.com/ru/post/475184/
+
+Суровая практика: как сделать Wi-Fi сеть в городском парке / Блог компании TP-Link / Хабр
+https://habr.com/ru/company/tp_link_russia/blog/474990/
+
+Краткая история электроники: от лампочки к квантовому компьютеру — ПостНаука
+https://postnauka.ru/longreads/103187
+
+Костный звук нового уровня — обзор Aftershokz Aeropex / Блог компании Medgadgets / Хабр
+https://habr.com/ru/company/medgadgets/blog/475322/
+
+XML практически всегда применяется не по назначению / Блог компании Mail.ru Group / Хабр
+https://habr.com/ru/company/mailru/blog/475474/
+
+Убийца iOS: джейлбрейк с помощью checkra1n в вопросах и ответах / Блог компании Group-IB / Хабр
+https://habr.com/ru/company/group-ib/blog/475514/
+
+Промышленные уран-графитовые реакторы для наработки плутония / Хабр
+https://habr.com/ru/post/475444/
+
+Звуковой отпечаток компьютера через AudioContext API / Блог компании GlobalSign / Хабр
+https://habr.com/ru/company/globalsign/blog/475586/
+
+5 способов полезного использования Raspberry Pi. Часть третья / Хабр
+https://habr.com/ru/post/475172/
+
+Большие гипотезы о простых числах доказаны для небольших числовых систем / Хабр
+https://habr.com/ru/post/475596/
+
+Автоматизация Для Самых Маленьких. Часть Вторая. Дизайн сети / Хабр
+https://habr.com/ru/post/475614/
+
+О рынке полностью удаленной работы без фото с пляжа / Блог компании Maxilect / Хабр
+https://habr.com/ru/company/maxilect/blog/475674/
+
+article  01 01 2020 22 03 16
+https://habr.com/ru/company/wolfram/blog/475728/
+
+article  01 01 2020 22 03 27
+https://habr.com/ru/company/dataart/blog/475646/
+
+article  01 01 2020 22 03 39
+https://habr.com/ru/company/pult/blog/475746/
+
+Четырёхуровневая модель Системного Администратора / Хабр
+https://habr.com/ru/post/475744/
+
+«Портативная» ретро-консоль своими руками / Хабр
+https://habr.com/ru/post/475830/
+
+Визуализация дальних рубежей: космос, киберпанк, подсознание / Блог компании Mail.ru Group / Хабр
+https://habr.com/ru/company/mailru/blog/475926/
+
+Нарастающий итог в SQL / Хабр
+https://habr.com/ru/post/474458/
+
+article  01 01 2020 22 04 24
+https://habr.com/ru/company/spbifmo/blog/476160/
+
+Переходите к безопасной 2FA на блокчейне / Хабр
+https://habr.com/ru/post/476090/
+
+Для чего нужен штабной вагон поезда / Блог компании Туту.ру / Хабр
+https://habr.com/ru/company/tuturu/blog/475978/
+
+article  01 01 2020 22 04 51
+https://habr.com/ru/company/marsis/blog/476266/
+
+Очередная война операционок уже идет под капотом автомобилей / Блог компании НПП ИТЭЛМА / Хабр
+https://habr.com/ru/company/itelma/blog/476054/
+
+Через тернии к DOS’у: четыре дискеты, изменившие мир / Блог компании ИТ-ГРАД / Хабр
+https://habr.com/ru/company/it-grad/blog/476280/
+
+Ко дню рождения Юрия Кнорозова: изучаем основы письменности Майя / Хабр
+https://habr.com/ru/post/469949/
+
+Как программисту переехать в Нидерланды / Хабр
+https://habr.com/ru/post/455892/
+
+Пишем USB-драйверы для заброшенных устройств / Хабр
+https://habr.com/ru/post/476434/
+
+article  01 01 2020 22 05 44
+https://habr.com/ru/company/custis/blog/472446/
+
+article  01 01 2020 22 05 54
+https://xakep.ru/2019/11/19/zn2019-xakep-lock/
+
+Задача с TopCoder Open 2019: разрезаем пирог на шесть частей / Хабр
+https://habr.com/ru/post/476500/
+
+Демистификация принципов квантовых вычислений / Блог компании Mail.ru Group / Хабр
+https://habr.com/ru/company/mailru/blog/476444/
+
+Первым хитовым форматом файлов в интернете был не MP3, а MIDI / Хабр
+https://habr.com/ru/post/476460/
+
+article  01 01 2020 22 06 24
+https://habr.com/ru/company/pult/blog/476718/
+
+article  01 01 2020 22 06 29
+https://habr.com/ru/company/pochtoy/blog/477540/
+
+Создание игры для SEGA Mega Drive/Genesis в 2019 году / Хабр
+https://habr.com/ru/post/477524/
+
+article  01 01 2020 22 06 48
+https://habr.com/ru/company/pt/blog/477916/
+
+article  01 01 2020 22 06 56
+https://habr.com/ru/company/ruvds/blog/477856/
+
+Ещё пара слов о пользе чтения / Хабр
+https://habr.com/ru/post/476760/
+
+Локализация звуков: как мозг распознает источники звуков / Блог компании ua-hosting.company / Хабр
+https://habr.com/ru/company/ua-hosting/blog/476396/
+
+Хранилище key-value, или как наши приложения стали удобнее / Блог компании Voximplant / Хабр
+https://habr.com/ru/company/Voximplant/blog/476452/
+
+Intel oneAPI — один за всех, теперь — и для вас / Блог компании Intel / Хабр
+https://habr.com/ru/company/intel/blog/476514/
+
+article  01 01 2020 22 07 42
+https://habr.com/ru/post/476786/
+
+Как я делал управление компьютером с телефона / Хабр
+https://habr.com/ru/post/476668/
+
+Как Apple убивает веб технологии / Блог компании Edison / Хабр
+https://habr.com/ru/company/edison/blog/476698/
+
+Заметки обо всем. Простые и опасные источники питания / Хабр
+https://habr.com/ru/post/476812/
+
+От «Цветорасширителя для ZX-Spectrum» до ZX-Poly / Хабр
+https://habr.com/ru/post/472232/
+
+Шах и мат! Как устроен нашумевший эксплоит checkm8 и как им воспользоваться &#8212; «Хакер»
+https://xakep.ru/2019/11/21/checkra1n/
+
+USB4: что в нём нового и почему это важно / Хабр
+https://habr.com/ru/post/476864/
+
+article  01 01 2020 22 08 51
+https://habr.com/ru/company/plarium/blog/476890/
+
+article  01 01 2020 22 08 59
+https://habr.com/ru/company/kaspersky/blog/476910/
+
+article  01 01 2020 22 09 08
+https://habr.com/ru/company/solarsecurity/blog/476874/
+
+Права компании на код программистов / Хабр
+https://habr.com/ru/post/476912/
+
+Замена Action URL &amp; URI в SIP-телефонах или управление via websockets? / Хабр
+https://habr.com/ru/post/475842/
+
+Квантовые траектории и с чем их едят / Хабр
+https://habr.com/ru/post/476948/
+
+Мультиплексирование вывода данных на дисплей с параллельным портом / Хабр
+https://habr.com/ru/post/476986/
+
+Как поймать свет с помощью пены: пенно-фотонная сеть / Блог компании ua-hosting.company / Хабр
+https://habr.com/ru/company/ua-hosting/blog/476838/
+
+IBM, память на линиях задержки и история дисплея 80?24 символа / Хабр
+https://habr.com/ru/post/476868/
+
+Что внутри аэропорта: центры управления / Блог компании Туту.ру / Хабр
+https://habr.com/ru/company/tuturu/blog/477298/
+
+Захоронение высокорадиоактивных отходов в России / Хабр
+https://habr.com/ru/post/476244/
+
+article  01 01 2020 22 10 26
+https://habr.com/ru/post/475580/
+
+article  01 01 2020 22 10 38
+https://habr.com/ru/company/madrobots/blog/477264/
+
+article  01 01 2020 22 10 45
+https://habr.com/ru/company/spbifmo/blog/477230/
+
+Значит, хотите запустить Windows 10 на калькуляторе? Ну ладно / Хабр
+https://habr.com/ru/post/477250/
+
+Методы наименьших квадратов: текст, написанный программистом для программистов / Хабр
+https://habr.com/ru/post/477192/
+
+article  01 01 2020 22 11 07
+https://habr.com/ru/company/audiomania/blog/477164/
+
+Программы для непрерывного мониторинга глюкозы крови для Windows / Хабр
+https://habr.com/ru/post/477120/
+
+Математики начинают укрощать «задачу о подсолнухе» / Хабр
+https://habr.com/ru/post/476870/
+
+Решение проблемы с переключением по alt+shift в Linux, в приложениях на Electron / Хабр
+https://habr.com/ru/post/476996/
+
+Что сделало Lisp особенным / Хабр
+https://habr.com/ru/post/476994/
+
+График Гартнера 2019: о чём все эти модные слова? / Блог компании Samsung / Хабр
+https://habr.com/ru/company/samsung/blog/477040/
+
+Разбираемся с передачей видео в разрешении 4К на 60 Гц через хаб USB-C / Хабр
+https://habr.com/ru/post/477098/
+
+article  01 01 2020 22 11 57
+https://habr.com/ru/post/477206/
+
+Как я запускал Докер внутри Докера и что из этого получилось / Хабр
+https://habr.com/ru/post/477464/
+
+Исследование шейдера песка игры Journey / Хабр
+https://habr.com/ru/post/476448/
+
+Процессоры космического класса: как отправить в космос побольше вычислительной мощности? / Хабр
+https://habr.com/ru/post/477526/
+
+article  01 01 2020 22 12 30
+https://xakep.ru/2019/11/26/esp32-hack/
+
+article  01 01 2020 22 12 37
+https://habr.com/ru/company/playgendary/blog/477584/
+
+article  01 01 2020 22 12 46
+https://habr.com/ru/company/dataart/blog/477596/
+
+Путь к естественному интеллекту / Хабр
+https://habr.com/ru/post/477804/
+
+article  01 01 20

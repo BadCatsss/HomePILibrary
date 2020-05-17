@@ -1,0 +1,10 @@
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.MainForm.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.RSSDialog.resources
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojAssemblyReference.cache
