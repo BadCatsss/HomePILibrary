@@ -32,7 +32,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.DownloadButton = new System.Windows.Forms.Button();
             this.TitleURL_TextB = new System.Windows.Forms.TextBox();
-            this.TitleLabel = new System.Windows.Forms.Label();
             this.Deamon_CheckB = new System.Windows.Forms.CheckBox();
             this.DownloadList = new System.Windows.Forms.Button();
             this.DownloadListFile = new System.Windows.Forms.Button();
@@ -48,6 +47,10 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
             this.IP_Tb = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.CurrentSavePath_label = new System.Windows.Forms.Label();
+            this.DownloadStatus_label = new System.Windows.Forms.Label();
+            this.TitleLabel = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -72,23 +75,9 @@
             this.TitleURL_TextB.TabIndex = 1;
             this.TitleURL_TextB.TextChanged += new System.EventHandler(this.URLChanged);
             // 
-            // TitleLabel
-            // 
-            this.TitleLabel.AutoSize = true;
-            this.TitleLabel.Location = new System.Drawing.Point(7, 39);
-            this.TitleLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.TitleLabel.MinimumSize = new System.Drawing.Size(8, 8);
-            this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(27, 13);
-            this.TitleLabel.TabIndex = 3;
-            this.TitleLabel.Text = "Title";
-            this.TitleLabel.Visible = false;
-            // 
             // Deamon_CheckB
             // 
             this.Deamon_CheckB.AutoSize = true;
-            this.Deamon_CheckB.Checked = true;
-            this.Deamon_CheckB.CheckState = System.Windows.Forms.CheckState.Checked;
             this.Deamon_CheckB.Location = new System.Drawing.Point(9, 236);
             this.Deamon_CheckB.Margin = new System.Windows.Forms.Padding(2);
             this.Deamon_CheckB.Name = "Deamon_CheckB";
@@ -99,7 +88,7 @@
             // 
             // DownloadList
             // 
-            this.DownloadList.Location = new System.Drawing.Point(9, 111);
+            this.DownloadList.Location = new System.Drawing.Point(11, 111);
             this.DownloadList.Margin = new System.Windows.Forms.Padding(2);
             this.DownloadList.Name = "DownloadList";
             this.DownloadList.Size = new System.Drawing.Size(134, 44);
@@ -110,7 +99,7 @@
             // 
             // DownloadListFile
             // 
-            this.DownloadListFile.Location = new System.Drawing.Point(9, 160);
+            this.DownloadListFile.Location = new System.Drawing.Point(9, 158);
             this.DownloadListFile.Margin = new System.Windows.Forms.Padding(2);
             this.DownloadListFile.Name = "DownloadListFile";
             this.DownloadListFile.Size = new System.Drawing.Size(134, 55);
@@ -185,6 +174,7 @@
             // LocalD_Rb
             // 
             this.LocalD_Rb.AutoSize = true;
+            this.LocalD_Rb.Checked = true;
             this.LocalD_Rb.Location = new System.Drawing.Point(0, 16);
             this.LocalD_Rb.Margin = new System.Windows.Forms.Padding(2);
             this.LocalD_Rb.Name = "LocalD_Rb";
@@ -197,13 +187,11 @@
             // RemoteD_Rb
             // 
             this.RemoteD_Rb.AutoSize = true;
-            this.RemoteD_Rb.Checked = true;
-            this.RemoteD_Rb.Location = new System.Drawing.Point(0, 38);
+            this.RemoteD_Rb.Location = new System.Drawing.Point(4, 112);
             this.RemoteD_Rb.Margin = new System.Windows.Forms.Padding(2);
             this.RemoteD_Rb.Name = "RemoteD_Rb";
             this.RemoteD_Rb.Size = new System.Drawing.Size(136, 17);
             this.RemoteD_Rb.TabIndex = 13;
-            this.RemoteD_Rb.TabStop = true;
             this.RemoteD_Rb.Text = "На удаленный сервер";
             this.RemoteD_Rb.UseVisualStyleBackColor = true;
             // 
@@ -222,6 +210,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.button1);
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Controls.Add(this.IP_Tb);
             this.groupBox2.Controls.Add(this.LocalD_Rb);
@@ -230,7 +219,7 @@
             this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox2.Size = new System.Drawing.Size(150, 81);
+            this.groupBox2.Size = new System.Drawing.Size(164, 166);
             this.groupBox2.TabIndex = 15;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Настройки загрузки";
@@ -238,7 +227,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(4, 59);
+            this.label1.Location = new System.Drawing.Point(8, 133);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(20, 13);
@@ -247,18 +236,58 @@
             // 
             // IP_Tb
             // 
-            this.IP_Tb.Location = new System.Drawing.Point(27, 58);
+            this.IP_Tb.Location = new System.Drawing.Point(31, 132);
             this.IP_Tb.Margin = new System.Windows.Forms.Padding(2);
             this.IP_Tb.Name = "IP_Tb";
             this.IP_Tb.Size = new System.Drawing.Size(76, 20);
             this.IP_Tb.TabIndex = 14;
             this.IP_Tb.Text = "192.168.0.102";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(7, 39);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(133, 55);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "Выбрать путь для локльного сохранения";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // CurrentSavePath_label
+            // 
+            this.CurrentSavePath_label.AutoSize = true;
+            this.CurrentSavePath_label.Location = new System.Drawing.Point(6, 42);
+            this.CurrentSavePath_label.Name = "CurrentSavePath_label";
+            this.CurrentSavePath_label.Size = new System.Drawing.Size(163, 13);
+            this.CurrentSavePath_label.TabIndex = 16;
+            this.CurrentSavePath_label.Text = "Текущий путь для сохранения:";
+            // 
+            // DownloadStatus_label
+            // 
+            this.DownloadStatus_label.AutoSize = true;
+            this.DownloadStatus_label.Location = new System.Drawing.Point(12, 394);
+            this.DownloadStatus_label.Name = "DownloadStatus_label";
+            this.DownloadStatus_label.Size = new System.Drawing.Size(93, 13);
+            this.DownloadStatus_label.TabIndex = 17;
+            this.DownloadStatus_label.Text = "Статус загрузки:";
+            // 
+            // TitleLabel
+            // 
+            this.TitleLabel.AutoSize = true;
+            this.TitleLabel.Location = new System.Drawing.Point(15, 412);
+            this.TitleLabel.Name = "TitleLabel";
+            this.TitleLabel.Size = new System.Drawing.Size(35, 13);
+            this.TitleLabel.TabIndex = 18;
+            this.TitleLabel.Text = "label2";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(731, 437);
+            this.Controls.Add(this.TitleLabel);
+            this.Controls.Add(this.DownloadStatus_label);
+            this.Controls.Add(this.CurrentSavePath_label);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.RSSButton);
@@ -267,7 +296,6 @@
             this.Controls.Add(this.DownloadListFile);
             this.Controls.Add(this.DownloadList);
             this.Controls.Add(this.Deamon_CheckB);
-            this.Controls.Add(this.TitleLabel);
             this.Controls.Add(this.TitleURL_TextB);
             this.Controls.Add(this.DownloadButton);
             this.Margin = new System.Windows.Forms.Padding(2);
@@ -287,7 +315,6 @@
 
         private System.Windows.Forms.Button DownloadButton;
         private System.Windows.Forms.TextBox TitleURL_TextB;
-        private System.Windows.Forms.Label TitleLabel;
         private System.Windows.Forms.CheckBox Deamon_CheckB;
         private System.Windows.Forms.Button DownloadList;
         private System.Windows.Forms.Button DownloadListFile;
@@ -303,6 +330,10 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox IP_Tb;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label CurrentSavePath_label;
+        private System.Windows.Forms.Label DownloadStatus_label;
+        private System.Windows.Forms.Label TitleLabel;
     }
 }
 

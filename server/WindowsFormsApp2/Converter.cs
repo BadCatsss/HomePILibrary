@@ -29,7 +29,7 @@ namespace WindowsFormsApp2
         public void Generate(string url, string title)
         {
             string name;
-            name = title + ".html";
+            name = MainForm.pathForSave+ title + ".html";
 
            
             try

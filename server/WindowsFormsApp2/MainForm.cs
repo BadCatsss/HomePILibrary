@@ -26,10 +26,13 @@ namespace WindowsFormsApp2
         private static Converter cnv;
         static FileStream logFile;
         FileStream DownloadHistoryFile;
+        FileStream SaveSettingsFile;
         string historyData;
         FileInfo historyFileInfo;
+        FileInfo SaveFileInfo;
         bool UniqPagesD = true;
         bool AllPagesD = false;
+        public static string pathForSave = "";
 
         internal static Converter Cnv { get => cnv; set => cnv = value; }
 
@@ -40,15 +43,27 @@ namespace WindowsFormsApp2
             Cnv = new Converter();
             logFile = new FileStream("URLLogs.txt", FileMode.Append, FileAccess.Write);
             DownloadHistoryFile = File.Open("DownloadHistory.txt", FileMode.Append);
+            SaveSettingsFile = new FileStream("SaveSettings.txt", FileMode.OpenOrCreate, FileAccess.ReadWrite);
             DownloadHistoryFile.Close();
+            SaveSettingsFile.Close();
+            TitleLabel.Visible = false;
 
             if (!File.Exists("DownloadHistory.txt"))
             {
                 File.Create("DowonloadHistory.txt").Close();
             }
+            pathForSave = File.ReadAllText("SaveSettings.txt");
+            if (pathForSave.Equals(""))
+            {
+                CurrentSavePath_label.Text = "Текущий путь для сохранения файлов: " + Directory.GetCurrentDirectory();
+            }
+            else
+            { CurrentSavePath_label.Text = "Текущий путь для сохранения файлов: " + pathForSave; } 
             historyData = File.ReadAllText("DownloadHistory.txt");
             historyFileInfo = new FileInfo("DownloadHistory.txt");
+            SaveFileInfo = new FileInfo("SaveSettings.txt");
             historyFileInfo.Attributes = FileAttributes.Hidden;
+            SaveFileInfo.Attributes = FileAttributes.Hidden;
         }
         void clearPathSymbols()
         {
@@ -187,9 +202,10 @@ namespace WindowsFormsApp2
             PageTitle = Encoding.UTF8.GetString(Encoding.Default.GetBytes(PageTitle));
 
           
-            if (PageTitle.Length >= 100)
+            if (PageTitle.Length >= 120)
             {
-                PageTitle = "article: " + DateTime.Now;
+                PageTitle = PageTitle.Substring(0, 120);
+                //PageTitle = "article: " + DateTime.Now;
                 clearPathSymbols();
                 Thread.Sleep(100);
                 WebPageTitleArr = Encoding.Default.GetBytes(PageTitle);
@@ -253,7 +269,7 @@ namespace WindowsFormsApp2
 
 
 
-
+            DownloadStatus_label.Text = "Saved: "+ PageTitle.Substring(0,50)+"...";
 
         }
 
@@ -262,6 +278,7 @@ namespace WindowsFormsApp2
         {
 
             DownloadPage(TitleURL_TextB.Text);
+          
         }
 
 
@@ -435,7 +452,27 @@ namespace WindowsFormsApp2
             thread1.Abort();
         }
 
-      
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FolderBrowserDialog fd1 = new FolderBrowserDialog();
+           DialogResult result =  fd1.ShowDialog();
+            if (result==DialogResult.OK && !string.IsNullOrWhiteSpace(fd1.SelectedPath))
+            {
+                pathForSave= fd1.SelectedPath+"\\";
+                CurrentSavePath_label.Text = "Текущий путь для сохранения файлов: "+ pathForSave;
+                SaveSettingsFile = new FileStream("SaveSettings.txt",FileMode.Truncate,FileAccess.Write);
+               byte[] SaveSettingsFileData = Encoding.Default.GetBytes(pathForSave);
+                SaveSettingsFile.Write(SaveSettingsFileData, 0, SaveSettingsFileData.Length);
+                SaveSettingsFile.Close();
+
+            }
+            else
+            {
+                MessageBox.Show("Invalid path for save");
+                pathForSave = "";
+            }
+
+        }
     }
 }
 

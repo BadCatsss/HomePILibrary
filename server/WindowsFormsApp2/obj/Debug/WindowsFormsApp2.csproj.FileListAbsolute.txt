@@ -29,3 +29,14 @@ C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debu
 C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
 C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\BadCatss\Desktop\HtmlToPDF_homeLibrary\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+W:\HomePILibrary-master\server\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+W:\HomePILibrary-master\server\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+W:\HomePILibrary-master\server\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RSSDialog.resources
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+W:\HomePILibrary-master\server\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
